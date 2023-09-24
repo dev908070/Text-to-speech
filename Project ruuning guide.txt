@@ -1,0 +1,5 @@
+Step 1: intall python 3.X
+Step 2: create environment 
+step 3: actiavete environment
+Step 4: install requirements.txt using--- pip install -r requirements.txt
+step 5: Run Scripts using-- python tts_gui.py or python tts_cmd.py
